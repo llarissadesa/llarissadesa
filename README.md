@@ -5,23 +5,6 @@
   <p>🛡️ <b>SOC Analyst | Blue Team & Threat Detection</b></p>
   <p><em>Monitorando, analisando e defendendo ecossistemas digitais contra ameaças.</em></p>
 
-  <br />
-
-  <!-- Cards de Estatísticas Estáveis -->
-  <a href="https://github.com/llarissadesa">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llarissadesa&theme=nord" alt="Estatísticas Gerais do GitHub" />
-  </a>
-  <a href="https://github.com/llarissadesa">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llarissadesa&theme=nord" alt="Linguagens mais usadas" />
-  </a>
-
-  <br /><br />
-
-  <!-- Sequência de Contribuições (Streak) -->
-  <a href="https://github.com/llarissadesa">
-    <img src="https://streak-stats.demolab.com/?user=llarissadesa&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  </a>
-
 </div>
 
 ---
@@ -56,6 +39,29 @@
 ### ⚡ Atividades Recentes no GitHub
 <!-- RECENT_ACTIVITY:START -->
 <!-- RECENT_ACTIVITY:END -->
+
+---
+
+### 📊 Estatísticas e Sequência de Contribuições
+
+<div align="center">
+
+  <!-- Sequência de Contribuições (Streak) -->
+  <a href="https://github.com/llarissadesa">
+    <img src="https://streak-stats.demolab.com/?user=llarissadesa&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <!-- Cards de Estatísticas e Linguagens no Rodapé -->
+  <a href="https://github.com/llarissadesa">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llarissadesa&theme=nord" alt="Estatísticas Gerais do GitHub" />
+  </a>
+  <a href="https://github.com/llarissadesa">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llarissadesa&theme=nord" alt="Linguagens mais usadas" />
+  </a>
+
+</div>
 
 ---
 
