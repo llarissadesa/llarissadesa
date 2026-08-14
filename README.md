@@ -7,19 +7,19 @@
 
   <br />
 
-  <!-- Cards de Estatísticas no tema Azul/Cinza (Nord/Dark) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="Estatísticas do GitHub" />
+  <!-- Cards de Estatísticas Estáveis -->
+  <a href="https://github.com/llarissadesa">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llarissadesa&theme=nord" alt="Estatísticas Gerais do GitHub" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llarissadesa&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Linguagens mais usadas" />
+  <a href="https://github.com/llarissadesa">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llarissadesa&theme=nord" alt="Linguagens mais usadas" />
   </a>
 
-  <br/><br/>
+  <br /><br />
 
   <!-- Sequência de Contribuições (Streak) -->
-  <a href="https://github.com/aaronstahl/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=llarissadesa&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <a href="https://github.com/llarissadesa">
+    <img src="https://streak-stats.demolab.com/?user=llarissadesa&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -35,7 +35,6 @@
 ---
 
 ### 🛡️ Ferramentas & Tecnologias
-<!-- Badges padronizadas em tons de Azul, Cinza, Branco e Escuro -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
