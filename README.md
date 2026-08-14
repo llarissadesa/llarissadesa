@@ -1,23 +1,23 @@
 <div align="center">
 
-  <!-- Apresentação -->
-  <h1>Olá, eu sou <a href="https://github.com/llarissadesa">Larissa Sá</a> 👋</h1>
+  <!-- Header -->
+  <h1>Hi, I'm <a href="https://github.com/llarissadesa">Larissa Sá</a> 👋</h1>
   <p>🛡️ <b>SOC Analyst | Blue Team & Threat Detection</b></p>
-  <p><em>Monitorando, analisando e defendendo ecossistemas digitais contra ameaças.</em></p>
+  <p><em>Monitoring, analyzing, and defending digital ecosystems against cyber threats.</em></p>
 
 </div>
 
 ---
 
-### 🔍 Foco de Estudo & Atuação
-* 📊 **Análise de Logs & SIEM:** Análise de eventos, correlação e criação de regras de detecção.
-* 🛡️ **Incident Response:** Triagem de alertas, contenção de ameaças e análise de artefatos.
-* 🌐 **Threat Intelligence:** Acompanhamento de IOCs, TTPs (MITRE ATT&CK) e análise de malware básico.
-* 🐍 **Automação:** Scripts em Python e Bash para otimização de rotinas de defesa.
+### 🔍 Focus Areas & Expertise
+* 📊 **Log Analysis & SIEM:** Event analysis, correlation, and detection rule engineering.
+* 🛡️ **Incident Response:** Alert triage, threat containment, and artifact analysis.
+* 🌐 **Threat Intelligence:** Tracking IOCs, TTPs (MITRE ATT&CK), and basic malware analysis.
+* 🐍 **Automation:** Python and Bash scripting for defensive operations.
 
 ---
 
-### 🛡️ Ferramentas & Tecnologias
+### 🛡️ Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -30,35 +30,35 @@
 
 ---
 
-### 📈 Certificações & Labs
-> * **TryHackMe / Hack The Box:** Praticando diariamente em cenários do mundo real.
-> * **Objetivo Atual:** BJA1
+### 📈 Certifications & Labs
+> * **TryHackMe / Hack The Box:** Hands-on practice with real-world scenarios daily.
+> * **Current Goal:** BJA1
 
 ---
 
-### ⚡ Atividades Recentes no GitHub
+### ⚡ Recent GitHub Activity
 <!-- RECENT_ACTIVITY:START -->
 <!-- RECENT_ACTIVITY:END -->
 
 ---
 
-### 📊 Estatísticas e Sequência de Contribuições
+### 📊 GitHub Stats & Contribution Streak
 
 <div align="center">
 
-  <!-- Sequência de Contribuições (Streak) -->
+  <!-- Contribution Streak -->
   <a href="https://github.com/llarissadesa">
     <img src="https://streak-stats.demolab.com/?user=llarissadesa&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
   </a>
 
   <br /><br />
 
-  <!-- Cards de Estatísticas e Linguagens no Rodapé -->
+  <!-- Profile & Language Stats Cards -->
   <a href="https://github.com/llarissadesa">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llarissadesa&theme=nord" alt="Estatísticas Gerais do GitHub" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llarissadesa&theme=nord" alt="GitHub Profile Details" />
   </a>
   <a href="https://github.com/llarissadesa">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llarissadesa&theme=nord" alt="Linguagens mais usadas" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llarissadesa&theme=nord" alt="Top Languages" />
   </a>
 
 </div>
