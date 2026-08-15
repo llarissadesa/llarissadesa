@@ -32,7 +32,7 @@
 
 ### 📈 Certifications & Labs
 > * **TryHackMe / Hack The Box:** Hands-on practice with real-world scenarios daily.
-> * **Current Goal:** BTL1
+> * **Current Goal:** Cisco Certified Cybersecurity Associate
 
 ---
 
