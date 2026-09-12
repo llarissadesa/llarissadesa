@@ -35,6 +35,6 @@
 
 ---
 
-### 📚 Meus Projetos
+### 📚 My Projects
 
-> Caso NNT Docomo | Incidente com roubo e fuga de dados em uma empresa de telecomunicações no Japão | https://github.com/llarissadesa/Projects-Mujer-Digital/blob/main/nttdocomo-case-pt.md
+PT/BR > Caso NNT Docomo | Incidente com roubo e fuga de dados em uma empresa de telecomunicações no Japão | https://github.com/llarissadesa/Projects-Mujer-Digital/blob/main/nttdocomo-case-pt.md
