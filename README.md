@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header -->
-  <h1>Hi, I'm <a href="https://github.com/llarissadesa">Larissa Sá</a> 👋</h1>
+  <h1>Hi, I'm <a href="https://www.linkedin.com/in/alarissadesa/">Larissa Sá</a> 👋</h1>
   <p>🛡️ <b>SOC Analyst | Blue Team & Threat Detection</b></p>
   <p><em>Monitoring, analyzing, and defending digital ecosystems against cyber threats.</em></p>
 
@@ -14,6 +14,7 @@
 * 🛡️ **Incident Response:** Alert triage, threat containment, and artifact analysis.
 * 🌐 **Threat Intelligence:** Tracking IOCs, TTPs (MITRE ATT&CK), and basic malware analysis.
 * 🐍 **Automation:** Python and Bash scripting for defensive operations.
+* 🎯 **Current Goal:** CompTIA Security+.
 
 ---
 
@@ -29,12 +30,8 @@
 
 ---
 
-### 📈 Certifications & Labs
-> * **TryHackMe:** Hands-on practice with real-world scenarios daily.
-> * **Current Goal:** CompTIA Security+ 
-
----
-
-### 📚 My Projects - Mujer Digital
-
-**PT/BR** > Caso NNT Docomo | Incidente com roubo e fuga de dados em uma empresa de telecomunicações no Japão | https://github.com/llarissadesa/Projects-Mujer-Digital/blob/main/nttdocomo-case-pt.md
+### 📚 Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SOC Operations and Blue Team defense          | <a href="https://github.com/llarissadesa/SOC-Labs-and-Notes">SOC Labs on TryHackMe</a>|
+| Cybersecurity case studies | <a href="https://github.com/llarissadesa/Projects-Mujer-Digital">Projects in Mujer Digital</a>|
