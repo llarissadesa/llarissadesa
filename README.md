@@ -59,7 +59,9 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 </p>
 
 <br />
-[Λ Voltar ao topo](#olá-sou-a-larissa-sá--hi-im-larissa-sá)
+<p align="right">
+  <a href="#top">Λ Voltar ao topo</a>
+</p>
 
 ---
 
@@ -108,6 +110,7 @@ My hands-on studies combine end-user support with core cybersecurity practices. 
 </p>
 
 <br />
-[Λ Back to top](#olá-sou-a-larissa-sá--hi-im-larissa-sá)
-
+<p align="right">
+  <a href="#top">Λ Back to top</a>
+</p>
 <div align="center">
