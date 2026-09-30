@@ -23,7 +23,7 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Currículo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#link-do-seu-pdf-em-pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tinyurl.com/larissasa)
 
 </div>
 
