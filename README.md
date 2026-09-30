@@ -1,7 +1,7 @@
 <!-- PLACA DE ENTRADA / LANGUAGE SELECTION -->
 <div align="center">
 
-<h1 id="topo"># Olá! Sou a Larissa Sá / Hi! I'm Larissa Sá</h1>
+# Olá! Sou a Larissa Sá / Hi! I'm Larissa Sá
 
   <p>
     <b>Escolha seu idioma / Choose your language:</b><br />
@@ -58,9 +58,7 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 </p>
 
 <br />
-<p align="right">
-  <a href="#topo">Λ Voltar ao topo</a>
-</p>
+[Λ Voltar ao topo](#olá-sou-a-larissa-sá--hi-im-larissa-sá)
 
 ---
 
@@ -109,8 +107,6 @@ My hands-on studies combine end-user support with core cybersecurity practices. 
 </p>
 
 <br />
-<p align="right">
-  <a href="#topo">Λ Back to top</a>
-</p>
- 
+[Λ Back to top](#olá-sou-a-larissa-sá--hi-im-larissa-sá)
+
 <div align="center">
