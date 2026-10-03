@@ -74,7 +74,7 @@ My hands-on studies combine end-user support with core cybersecurity practices. 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#link-do-seu-pdf-em-en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tinyurl.com/ITlarissasa)
 
 </div>
 
