@@ -23,7 +23,7 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tinyurl.com/larissasa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oRsCG4hoBh5Zxlx8u4XH0tuKIIzuXaAm/view?usp=drive_link)
 
 </div>
 
@@ -74,7 +74,7 @@ My hands-on studies combine end-user support with core cybersecurity practices. 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tinyurl.com/ITlarissasa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xL12Wl_G_Q2gxMUq4t01x-CiFI-BhJYy/view?usp=sharing)
 
 </div>
 
