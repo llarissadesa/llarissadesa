@@ -17,13 +17,13 @@
 ## 🇧🇷 Versão em Português
 
 ### Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas na busca pelo primeiro **estágio em TI / Help Desk / Cibersegurança**. 
+Estudante de Análise e Desenvolvimento de Sistemas na busca pelo primeiro **estágio em Analista de Suporte / Help Desk **. 
 
 Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos de cibersegurança: divido meu tempo entre resolução de dúvidas de usuários, laboratórios no TryHackMe, prática de comandos Linux e preparação para a certificação CompTIA Security+, aplicando na prática conceitos de redes, sistemas operacionais e análise de ameaças.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oRsCG4hoBh5Zxlx8u4XH0tuKIIzuXaAm/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1yKbcpWYQGS-0SlDxQbboniva-HVFC1Vi/view?usp=drive_link)
 
 </div>
 
@@ -68,13 +68,13 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 ## 🇺🇸 English Version
 
 ### About Me
-Systems Analysis and Development student seeking an entry-level **IT Support / Help Desk / Cybersecurity Internship**.
+Systems Analysis and Development student seeking an entry-level **IT Support / Help Desk Intern**.
 
 My hands-on studies combine end-user support with core cybersecurity practices. I divide my time between troubleshooting user inquiries, completing TryHackMe labs, practicing Linux command-line utilities, and preparing for the CompTIA Security+ certification—applying networking, operating system, and threat analysis concepts in practical environments.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xL12Wl_G_Q2gxMUq4t01x-CiFI-BhJYy/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cCprsbLkLZpTCZUIIEbhcGN-hEGt3pm7/view?usp=drive_link)
 
 </div>
 
