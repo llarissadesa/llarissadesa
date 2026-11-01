@@ -23,7 +23,7 @@ Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1yKbcpWYQGS-0SlDxQbboniva-HVFC1Vi/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![E-mail](https://img.shields.io/badge/E--mail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1yKbcpWYQGS-0SlDxQbboniva-HVFC1Vi/view?usp=sharing)
 
 </div>
 
@@ -74,7 +74,7 @@ My hands-on studies combine end-user support with core cybersecurity practices. 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cCprsbLkLZpTCZUIIEbhcGN-hEGt3pm7/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alarissadesa) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.larissadesa@gmail.com) [![Resume PDF](https://img.shields.io/badge/Resume_PDF-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cCprsbLkLZpTCZUIIEbhcGN-hEGt3pm7/view?usp=sharing)
 
 </div>
 
