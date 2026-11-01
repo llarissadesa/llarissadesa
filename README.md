@@ -17,7 +17,7 @@
 ## 🇧🇷 Versão em Português
 
 ### Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas na busca pelo primeiro **estágio em Analista de Suporte / Help Desk **. 
+Estudante de Análise e Desenvolvimento de Sistemas na busca pelo primeiro **estágio em Analista de Suporte / Help Desk**. 
 
 Meu estudo atualmente combina atendimento e suporte ao usuário com fundamentos de cibersegurança: divido meu tempo entre resolução de dúvidas de usuários, laboratórios no TryHackMe, prática de comandos Linux e preparação para a certificação CompTIA Security+, aplicando na prática conceitos de redes, sistemas operacionais e análise de ameaças.
 
